@@ -11,7 +11,7 @@ FILE DETAILS :
 
 --------------------------------------------------------------------------------------
 
-**NOTES**
+**RUN FASTAPI SERVER**
 
 RUN FASTAPI : `uvicorn main:app --reload`
 
