@@ -32,7 +32,9 @@ START REDIS CLIENT : `redis-cli`
 
 GET REDIS KEYS     : `key *`
 
-GET REDIS KEYS     : `redis-cli keys`
+--------------------------------------------------------------------------------------
 
+**INSTALL REQUIREMENTS** 
 
+`pip install -r requirements.txt`
 
