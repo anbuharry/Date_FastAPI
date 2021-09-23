@@ -22,9 +22,9 @@ START REDIS SERVER : `redis-server`
 
 START REDIS SERVER : `redis-server --port 6360`
 
-START REDIS SERVER : `/etc/init.d/redis-server stop`
-
 START REDIS SERVER : `/etc/init.d/redis-server start`
+
+STOP REDIS SERVER : `/etc/init.d/redis-server stop`
 
 STOP REDIS SERVER  : `sudo service redis-server stop`
 
